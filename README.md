@@ -1,23 +1,51 @@
-<a id="user-content-1" href="#1">
-</a><div align="center" dir="auto"><a id="user-content-1" href="#1">
-</a><a href="https://github.com/ychojm359/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/ychojm359/www/master/t/www.jpg" style="max-width: 100%;"></a><br>
-<p dir="auto"></p><details><summary>本平台短网址:  <a href="https://sum.vn/nnnn" rel="nofollow">sum.vn/nnnn</a>  持续收看请<a href="#8">下载翻墙软件</a>  ....<g-emoji class="g-emoji" alias="arrow_double_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23ec.png">⏬</g-emoji></summary><p dir="auto"></p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/47659857134ab0bab7d9fa3d623137336cb8d93c054a8ef009b9aae8b20b8bbd/68747470733a2f2f63686172742e617069732e676f6f676c652e636f6d2f63686172743f6368743d7172266368733d323430783234302663686f653d5554462d382663686c643d4d7c322663686c3d68747470733a2f2f6769746875622e636f6d2f7963686f6a6d3335392f7777772f626c6f622f6d61737465722f524541444d452e6d643f7725323331"><img src="https://camo.githubusercontent.com/47659857134ab0bab7d9fa3d623137336cb8d93c054a8ef009b9aae8b20b8bbd/68747470733a2f2f63686172742e617069732e676f6f676c652e636f6d2f63686172743f6368743d7172266368733d323430783234302663686f653d5554462d382663686c643d4d7c322663686c3d68747470733a2f2f6769746875622e636f6d2f7963686f6a6d3335392f7777772f626c6f622f6d61737465722f524541444d452e6d643f7725323331" title="分享本平台" data-canonical-src="https://chart.apis.google.com/chart?cht=qr&amp;chs=240x240&amp;choe=UTF-8&amp;chld=M|2&amp;chl=https://github.com/ychojm359/www/blob/master/README.md?w%231" style="max-width: 100%;"></a><br>
-本平台二维码
+<h2>
+</a><strong>突破封锁 自由上网</strong>
+</h2>
+<p><details><summary>安卓版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/um5.4.apk">无界 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/u2.2.6.apk">无界VPN版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/fgma.apk">自由门 </a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/fgvpn1.3.apk">自由门VPN版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/psiphon3.apk">赛风 </a></p>
 </details>
-<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="!如果打不开，隔一会儿再刷新一下。"><pre><span class="pl-mc"><span class="pl-mc">!</span>如果打不开，隔一会儿再刷新一下。</span></pre></div>
-<br>
-<h1 dir="auto"><a id="user-content-新闻热点-海外报道" class="anchor" aria-hidden="true" href="#新闻热点-海外报道"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><p dir="auto"><strong>新闻热点 海外报道</strong></p></h1>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533458.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/8406060a71a7cbc3812fc82127eb5db984570468ead07bfc33a2eb712990cddc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe4ba8ce58d81e5a4a7e5898de5ae98e5aa92e782b9e5908de2809ce585ade8998ee2809d2fe7baa2e4ba8ce4bba3e689b9e8af84e58c97e4baace5bd93e5b1803e2d3030396663633f6c6f676f57696474683d31" title="二十大前官媒点名＂六虎＂／红二代批评北京&gt;&gt;" alt="二十大前官媒点名＂六虎＂／红二代批评北京&gt;&gt;" data-canonical-src="https://img.shields.io/badge/二十大前官媒点名“六虎”/红二代批评北京当局&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533329.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/8eb45696c2d1afa8fd926a4099f232699f07f67da854e66f1d88c0ab1169a5c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe4ba8ce58d81e5a4a7e5898d20e7baa2e4ba8ce4bba3e689b9e8af84e58c97e4baace5bd93e5b18020202020202020203e2d3030396663633f6c6f676f57696474683d31" title="二十大前　红二代批评北京当局　　　　　　&gt;&gt;" alt="二十大前　红二代批评北京当局　　　　　　&gt;&gt;" data-canonical-src="https://img.shields.io/badge/二十大前 红二代批评北京当局        &gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533175.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/8af9492eb255154b11b01cdbe42f6d96e84ab6023a41f73b990d62d3d670b380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe4ba8ce58d81e5a4a7e9ab98e5b182e69d83e58a9be5b883e5b18020e4b893e5aeb6efbc9ae4b9a0e6b4bee883bde590a6e58da0e5a49ae695b0e8bf98e69caa3e2d3030396663633f6c6f676f57696474683d31" title="二十大高层权力布局　专家：习派能否占多数&gt;&gt;" alt="二十大高层权力布局　专家：习派能否占多数&gt;&gt;" data-canonical-src="https://img.shields.io/badge/二十大高层权力布局 专家：习派能否占多数还未&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/20/a103532957.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/f8dcc21d7a145479089b52071c29ab1cc0aa1896350c1d91d4531de443f54afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe78e8be5b290e5b1b1e5908ae59481e5a5b3e78e8b20e4b8ade4bdbfe9a686e7bb84e7bb87e2809ce783ade78388e6aca2e8bf8ee2809de8a2abe68c87e697a03e2d3030396663633f6c6f676f57696474683d31" title="王岐山吊唁女王　中使馆组织＂热烈欢迎＂被&gt;&gt;" alt="王岐山吊唁女王　中使馆组织＂热烈欢迎＂被&gt;&gt;" data-canonical-src="https://img.shields.io/badge/王岐山吊唁女王 中使馆组织“热烈欢迎”被指无&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/20/a103532740.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/a1840e307b2c895b13d8512eb7a5492ac53bc483ad8e2fde461ac534bda5b93c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe4b8ade58a9ee68ea8e2809ce883bde4b88ae883bde4b88be2809d20e588a0e2809ce588b0e9be84e98080e4bc91e2809de69da1e6acbee5bc95e78c9ce6b58b3e2d3030396663633f6c6f676f57696474683d31" title="中办推＂能上能下＂　删＂到龄退休＂条款引&gt;&gt;" alt="中办推＂能上能下＂　删＂到龄退休＂条款引&gt;&gt;" data-canonical-src="https://img.shields.io/badge/中办推“能上能下” 删“到龄退休”条款引猜测&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/20/a103532716.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/76e6bc949a4a3c1ba6baacdd72197a433e93ff70794d6805f7576625f5f2638e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe98791e6ada3e681a9e5a5b3e584bfe9a696e4baaee79bb8efbc9fe789b9e58699e9959ce5a4b4e4b88be7a59ee7a798e5a5b3e58f97e585b3e6b3a820203e2d3030396663633f6c6f676f57696474683d31" title="金正恩女儿首亮相？特写镜头下神秘女受关注&gt;&gt;" alt="金正恩女儿首亮相？特写镜头下神秘女受关注&gt;&gt;" data-canonical-src="https://img.shields.io/badge/金正恩女儿首亮相？特写镜头下神秘女受关注  &gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533478.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/6f6751fb70ad6d23464219be893cb2ff8e21c40401d28a1153910b8d8a4701d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe699aee4baace58f91e5b883e983a8e58886e58aa8e59198e4bba420e5a49ae59bbde59b9ee5ba9420e7a6bbe4bf84e69cbae7a5a8e4bbb7e6a0bce9a3993e2d3030396663633f6c6f676f57696474683d31" title="普京发布部分动员令　多国回应　离俄机票价&gt;&gt;" alt="普京发布部分动员令　多国回应　离俄机票价&gt;&gt;" data-canonical-src="https://img.shields.io/badge/普京发布部分动员令 多国回应 离俄机票价格飙&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533484.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/145e538599b4b01f0939758e3b33d573a84613aa4977307a27fa7dfa82faa2f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe5b180e58abfe69c89e58f9820e2809ce6808ee6a0b7e7a6bbe5bc80e4bf84e7bd97e696afe2809de799bbe8b0b7e6ad8ce783ade6909c2020203e2d3030396663633f6c6f676f57696474683d31" title="局势有变　＂怎样离开俄罗斯＂登谷歌热搜　&gt;&gt;" alt="局势有变　＂怎样离开俄罗斯＂登谷歌热搜　&gt;&gt;" data-canonical-src="https://img.shields.io/badge/局势有变 “怎样离开俄罗斯”登谷歌热搜   &gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533493.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/e553b2f7392d7df94303119b10730d4e9ce7e706bc885e5b0a10549f9332276f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe2809ce4b88de698afe8999ae5bca0e5a3b0e58abfe2809d20e4ba8ce68898e4bba5e69da5e699aee4baace9a696e6aca1e4b88be58aa8e59198e4bba4203e2d3030396663633f6c6f676f57696474683d31" title="＂不是虚张声势＂　二战以来普京首次下动员&gt;&gt;" alt="＂不是虚张声势＂　二战以来普京首次下动员&gt;&gt;" data-canonical-src="https://img.shields.io/badge/“不是虚张声势” 二战以来普京首次下动员令 &gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533431.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/d22e3b7a20bdb8ab4b0c1428a3a4a7e6a284243a13634899ae3e4df8bd24e341/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe69bbee79b91e68ea7e79b91e590ace9ab98e5ae9820e5b1b1e8a5bfe5898de585ace5ae89e58e85e995bfe58898e696b0e4ba91e88eb7e5889131343e2d3030396663633f6c6f676f57696474683d31" title="曾监控监听高官　山西前公安厅长刘新云获刑&gt;&gt;" alt="曾监控监听高官　山西前公安厅长刘新云获刑&gt;&gt;" data-canonical-src="https://img.shields.io/badge/曾监控监听高官 山西前公安厅长刘新云获刑14&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/xiygzk398/ntdtv/blob/master/gb/2022/09/21/a103533432.md#1"><img width="330" height="30" src="https://camo.githubusercontent.com/fce535f8ac208d00e66d43932f532a026071e20aa0ab23c033ef43f373489f66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe58fb0e59586e69bb9e585b4e8af9ae69bbee8a781e6b19fe6b3bde6b091e69bbee5ba86e7baa220e5bd93e99da2e5919be4b880e59bbde4b8a4e588b6e9aa973e2d3030396663633f6c6f676f57696474683d31" title="台商曹兴诚曾见江泽民曾庆红　当面呛一国两&gt;&gt;" alt="台商曹兴诚曾见江泽民曾庆红　当面呛一国两&gt;&gt;" data-canonical-src="https://img.shields.io/badge/台商曹兴诚曾见江泽民曾庆红 当面呛一国两制骗&gt;-009fcc?logoWidth=1" style="max-width: 100%;"></a></p>
-<details><summary>更多....  <g-emoji class="g-emoji" alias="arrow_double_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23ec.png">⏬</g-emoji><br></summary>
-![图片](https://user-images.githubusercontent.com/114072040/191498764-a7dbb864-6425-467e-8d41-c2752e62b978.png)
+
+<p><details><summary>电脑版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/u2132.zip">无界 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/fg797p.zip">自由门 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/psiphon3.zip">赛风 </a></p>
+</details>
+
+<p><details><summary>苹果版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/wujieliulan/forum">无界 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器 </a></p>
+</details>
+<h2>
+</a><strong>真实新闻:</strong>
+</h2>
+<p><details><summary>安卓版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/SzzdOgate.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/j25414/jyg/-/raw/master/j714.apk">聚缘阁 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/truth5/rj/oHopea004.apk">希望之声 </a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk">大纪元 </a></p>
+</details>
+
+<p><details><summary>电脑版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar">聚缘阁 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip">大纪元 </a></p>
+</details>
+
+<p><details><summary>苹果版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4">希望之声 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip">大纪元 </a></p>
+</details>
+
+<p><details><summary>网页版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szzd1/2">新闻热点 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁 </a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合 </a></p>
+</details>
+
+<h2>
+</h2>
+<p><a href="https://github.com/Alvin9999/new-pac/wiki">其他自由上网方法</a></p>
+<hr>
+<p>如有疑问可联系邮箱fanq@gmx.com</p>
+![图片](https://user-images.githubusercontent.com/114072040/191499581-7eb3d93e-2f86-42a1-a00b-c6091f55204b.png)
