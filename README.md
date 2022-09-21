@@ -48,4 +48,4 @@
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">其他自由上网方法</a></p>
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
-![图片](https://user-images.githubusercontent.com/114072040/191499581-7eb3d93e-2f86-42a1-a00b-c6091f55204b.png)
+
