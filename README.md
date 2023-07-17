@@ -35,7 +35,7 @@
 </details>
 
 <p><details><summary>苹果版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth51/td-ios">退党中心 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/td-ios">退党中心 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4">希望之声 </a></p>
 </details>
 
