@@ -48,5 +48,5 @@
 
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
-<p><a href="https://gitlab.com/truth51/5/-/blob/main/README.md">备用网址1</a><p>   
+<p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md">备用网址1</a><p>   
 <p><a href="https://truth5.github.io">备用网址2</a><p>  
