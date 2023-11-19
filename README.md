@@ -17,7 +17,7 @@
 </details>
 
 <p><details><summary>苹果版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/wujieliulan/forum#%E8%8B%B9%E6%9E%9C%E7%89%88-%E6%97%A0%E7%95%8Cvpn-101-%E6%94%AF%E6%8C%81-iphone-5s-%E4%BB%A5%E4%B8%8A">无界 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/wujie/-/blob/main/README.md#%E8%8B%B9%E6%9E%9C%E7%89%88-%E6%97%A0%E7%95%8Cvpn-101-%E6%94%AF%E6%8C%81-iphone-5s-%E4%BB%A5%E4%B8%8A">无界 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/nthlink/id1467297604">nthlink(iOS) </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/nthlink/id1536318872?mt=12">nthlink(mac) </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风 </a></p>
@@ -27,8 +27,8 @@
 </a><strong>真实新闻:</strong>
 </h2>
 <p><details><summary>安卓版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/szmj-v6.7.2023060101.apk">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/szmjtv-v6.7.2023060101.apk">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmj_v6.8.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmjtv_v6.8.apk">神州TV版 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/td-sj.zip">退党中心 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk">大纪元 </a></p>
 </details>
@@ -39,12 +39,12 @@
 </details>
 
 <p><details><summary>苹果版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/td-ios">退党中心 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/td/-/blob/main/README.md#%E5%85%A8%E7%90%83%E9%80%80%E5%85%9A%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83-ios%E7%89%88">退党中心 </a></p>
 </details>
 
 <p><details><summary>网页版</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmjweb.3.0.zip">神州明见 </a></p>
 </details>
 
 
