@@ -1,4 +1,30 @@
 <h2>
+</a><strong>真实新闻:</strong>
+</h2>
+
+<p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ggithub.xyz/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93/">直翻海外 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cuyou.github.io/">神州明见广传平台 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ggithub.xyz/uuu3/u/blob/master/u.md">新闻热点</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szmjweb.zip">神州html网页版</a></p>
+  
+<p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmj_v6.8.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmjtv_v6.8.apk">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/td-sj.zip">退党中心 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/epochfq.apk">大纪元 </a></p>
+</details>
+
+<p><details><summary>电脑版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/td-PC.zip">退党中心 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/epoch_win32.zip">大纪元 </a></p>
+</details>
+
+<p><details><summary>苹果版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/td/-/blob/main/README.md#%E5%85%A8%E7%90%83%E9%80%80%E5%85%9A%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83-ios%E7%89%88">退党中心 </a></p>
+</details>
+
+<h2>
 </a><strong>突破封锁 自由上网</strong>
 </h2>
 <p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
@@ -23,31 +49,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器 </a></p>
 </details>
-<h2>
-</a><strong>真实新闻:</strong>
-</h2>
-<p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmj_v6.8.apk">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmjtv_v6.8.apk">神州TV版 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/td-sj.zip">退党中心 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/epochfq.apk">大纪元 </a></p>
-</details>
-
-<p><details><summary>电脑版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/td-PC.zip">退党中心 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/epoch_win32.zip">大纪元 </a></p>
-</details>
-
-<p><details><summary>苹果版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/td/-/blob/main/README.md#%E5%85%A8%E7%90%83%E9%80%80%E5%85%9A%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83-ios%E7%89%88">退党中心 </a></p>
-</details>
-
-<p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cuyou.github.io/">神州明见广传平台 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/szmjweb.3.0.zip">神州明见 </a></p>
-</details>
-
 
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
