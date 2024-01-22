@@ -25,7 +25,7 @@
 </details>
 
 <h2>
-</a><strong>突破封锁 自由上网</strong>
+</a><strong>免费翻墙软件：</strong>
 </h2>
 <p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/um5.4.apk">无界 </a></p>
@@ -49,7 +49,10 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器 </a></p>
 </details>
-
+<h2>
+</a><strong>其它：</strong>
+</h2>
+<p><a href="https://ggithub.xyz/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
 <p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md">备用网址1</a><p>   
