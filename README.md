@@ -55,5 +55,5 @@
 <p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home">一键翻墙浏览器</a><p>     
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
-<p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md">备用网址1</a><p>   
+<p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
 <p><a href="https://igithub.xyz/truth5/5#readme">备用网址2</a><p>  
