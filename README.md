@@ -5,6 +5,7 @@
 <p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md#i">新闻热点</a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://a6b.github.io/">神州明见广传平台</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szmjweb.zip">神州html网页版</a></p></details>
   
 <p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
@@ -52,7 +53,7 @@
 <h2>
 </a><strong>其它：</strong>
 </h2>
-<p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home">一键翻墙浏览器</a><p>     
+<p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home#%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95">一键翻墙浏览器</a><p>     
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
 <p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
