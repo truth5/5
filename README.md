@@ -5,10 +5,10 @@
 <p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/uuu3/u/blob/master/u.md#%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9-%E6%B5%B7%E5%A4%96%E6%8A%A5%E9%81%93">新闻热点</a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pv8t28.fangma.online/2U415#4f8664hr">神州明见</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://06rnr0.zuiya.site/eG2WJ#lvp486n6">动态网</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://lll8b0.wanpao.xyz/6avsW#2n0v6042">干净世界</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://00j04x.kangdi.site/4KVpi#j6rt6x20">畅游真相</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rn4j64.ryg.skin/2U415#lznr0b26">神州明见</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://48r842.ryg.skin/eG2WJ#4d6p828h">动态网</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://86r0jp.ryg.skin/6avsW#62264882">干净世界</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pz6h02.ryg.skin/4KVpi#6n866l0h">畅游真相</a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p></details>
   
@@ -21,9 +21,9 @@
 </a><strong>免费翻墙软件：</strong>
 </h2>
 <p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/um5.4.apk">无界 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/um5.0.apk">无界 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/wujieliulan/download/raw/master/u.apk">无界VPN版 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/fg1.4.apk">自由门 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/fgvpn1.5.apk">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/truth51/rj/-/raw/main/PsiphonAndroid.apk">赛风 </a></p>
 </details>
