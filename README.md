@@ -22,7 +22,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/fgvpn1.5.apk">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pick.szzd.me/files/ChromePublic.apk">翻墙谷歌浏览器</a> </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.10.32.0/ProtonVPN-5.10.32.0.605103200.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/PsiphonAndroid.apk">赛风 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 </details>
