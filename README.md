@@ -4,8 +4,8 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/cet.html">大纪元新闻网 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://06jfdn.ugd.quest/9PjE7?pj46h28d">神州明见 </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://t62j08.ryg.skin/anNjt#4fp2z26p">动态网 </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hpph4l.trha.mom/yjcNt#t662x4dj">畅游真相 </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://28p668.bingte.store/anNjt?t4nr6n04">动态网 </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://x004h8.chaonu.store/yjcNt?l42xh8z8">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p></details>
   
 <p><details><summary>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
@@ -22,7 +22,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/fgvpn.apk">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/releases/download/1/ChromePublic.apk">翻墙谷歌浏览器</a> </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.12.80.0/ProtonVPN-5.12.80.0.605128000.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.13.61.0/ProtonVPN-5.13.61.0.605136100.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/PsiphonAndroid.apk">赛风 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 </details>
