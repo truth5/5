@@ -47,7 +47,7 @@
 <hr>
 
 ### 其它：
-#### <a href="https://s3.us-west-1.amazonaws.com/tc-vn/ctd.html">三退(退党、团、队)保平安</a>
+#### <a href="https://s3.ap-east-1.amazonaws.com/tc19/ctd.html">三退(退党、团、队)保平安</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
