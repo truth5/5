@@ -3,9 +3,9 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/chp.html">希望之声 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cet.html">大纪元新闻网 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cnd.html">新唐人电视台 </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999-newpac/fanqiang/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://xb20jj.kuangu.space/9PjE7?4x0vh42j">神州明见 </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://2ph022.ansande.shop/anNjt?400p8680">动态网 </a></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://6088rn.oxide.motorcycles/anNjt?4z2z2x62">动态网 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rrjnfl.bahje.space/yjcNt?jhf4nvh6">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p></details>
   
@@ -48,7 +48,7 @@
 
 ### 其它：
 #### <a href="https://s3.ap-east-1.amazonaws.com/tc19/ctd.html">三退(退党、团、队)保平安</a>
-<p><a href="https://github.com/Alvin9999/new-pac/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
+<p><a href="https://github.com/Alvin9999-newpac/fanqiang/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
 <hr>
 <p>如有疑问可联系邮箱fanq@gmx.com</p>
 <p><a href="https://gitlab.com/truth51/1/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
