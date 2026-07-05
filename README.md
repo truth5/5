@@ -7,8 +7,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p></details>
   
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://52.65.181.255/jmp4/">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://52.65.181.255/jmp2/">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmj_7.1.2025052101.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmjTV-v7.2-2026061904.apk">神州TV版 </a></p>
 </details>
 
 <hr>
@@ -20,7 +20,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/wujieliulan/download/raw/master/u.apk">无界VPN版 </a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.18.46.0/ProtonVPN-5.18.46.0.605184600.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.18.75.1/ProtonVPN-5.18.75.1.605187501.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/truth5/rj/raw/refs/heads/main/PsiphonAndroid.apk">赛风 </a></p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 </details>
